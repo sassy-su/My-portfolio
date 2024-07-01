@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-Portfolio/static/css/main.f34affe9.css",
+    "main.js": "/my-Portfolio/static/js/main.bce515e0.js",
+    "static/media/portfolio.gif": "/my-Portfolio/static/media/portfolio.b3b1987ce876cd401ec3.gif",
+    "static/media/sq.png": "/my-Portfolio/static/media/sq.4dc4324cd40c7978a140.png",
+    "static/media/Walmart.png": "/my-Portfolio/static/media/Walmart.40a0eab08408cabb8f4d.png",
+    "static/media/yt.png": "/my-Portfolio/static/media/yt.8e4aa7815140e9390eab.png",
+    "static/media/jump.png": "/my-Portfolio/static/media/jump.f038026fe242fc5a4a86.png",
+    "static/media/school.png": "/my-Portfolio/static/media/school.1a7759f19d6a15eaf65d.png",
+    "static/media/support.png": "/my-Portfolio/static/media/support.742caae5101d98ae2c49.png",
+    "static/media/app.png": "/my-Portfolio/static/media/app.2e86c7932c149eac85ca.png",
+    "static/media/designer.png": "/my-Portfolio/static/media/designer.1f9bfe89fe9becc2219a.png",
+    "static/media/Flipkarts.png": "/my-Portfolio/static/media/Flipkarts.a948a9559eee93df12b2.png",
+    "static/media/hiring.png": "/my-Portfolio/static/media/hiring.077cca13a48ee5d274c4.png",
+    "static/media/web.png": "/my-Portfolio/static/media/web.6c2dad8e409e14132e6d.png",
+    "static/media/Linkedin.png": "/my-Portfolio/static/media/Linkedin.dc920a394044ca68ddf6.png",
+    "static/media/linkldin.svg": "/my-Portfolio/static/media/linkldin.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/my-Portfolio/index.html",
+    "static/media/intsa.svg": "/my-Portfolio/static/media/intsa.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/facebook.svg": "/my-Portfolio/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.f34affe9.css.map": "/my-Portfolio/static/css/main.f34affe9.css.map",
+    "main.bce515e0.js.map": "/my-Portfolio/static/js/main.bce515e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34affe9.css",
+    "static/js/main.bce515e0.js"
+  ]
+}
